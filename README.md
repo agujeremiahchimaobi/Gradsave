@@ -1,6 +1,6 @@
 # gradsave
 
-A new Flutter project.
+A Banking Application that offer teens that are in school the opportunity to save their funds in their accounts
 
 ## Getting Started
 
